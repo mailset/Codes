@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8k34Hu9Wf5LrWNmLUszjR4LfTzEkU34NobYsJUif338iCXE154VzHfGCZvBFqTSH25g/CrXbjbqGSdeLwIGUQ==",
+  "success": true,
+  "projectFilePath": "H:\\CSharp\\WPF\\没用的应用\\身高计算器\\身高计算器.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mail_set\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\mail_set\\.nuget\\packages\\mahapps.metro\\2.4.9\\mahapps.metro.2.4.9.nupkg.sha512",
+    "C:\\Users\\mail_set\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512",
+    "C:\\Users\\mail_set\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\mail_set\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

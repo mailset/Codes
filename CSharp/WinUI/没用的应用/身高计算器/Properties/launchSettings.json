@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "身高计算器 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "身高计算器 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

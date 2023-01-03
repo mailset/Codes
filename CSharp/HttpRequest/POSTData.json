@@ -1,0 +1,18 @@
+{
+  "msgtype": "actionCard",
+  "actionCard": {
+    "title": "I am your father",
+    "text": "![screenshot](https://th.bing.com/th/id/R.80b2c6d54fe17b793509268074f27ba7?rik=e%2fOWvNpJlaIb7w&riu=http%3a%2f%2fwww.biaoqingb.com%2fuploads%2fimg1%2f20200719%2f6b0ef550d37108ab7cf540f0f1631301.jpg&ehk=iXE6Nkaq6o2Kbk3Ucwkqiqbk2Lj7o7Pv0%2fjZ1jvZFzM%3d&risl=&pid=ImgRaw&r=0) \n\n #### WOW, I am your father",
+    "btnOrientation": "0",
+    "btns": [
+      {
+        "title": "Yes!",
+        "actionURL": "https://www.aolianfeiallin.top/get/1668139386_0_564303ec18c71ea4.mp3"
+      },
+      {
+        "title": "Yes!!!!!!!!!",
+        "actionURL": "https://www.aolianfeiallin.top/get/1668139386_0_564303ec18c71ea4.mp3"
+      }
+    ]
+  }
+}

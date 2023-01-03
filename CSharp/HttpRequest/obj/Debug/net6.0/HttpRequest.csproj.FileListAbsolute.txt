@@ -1,0 +1,15 @@
+F:\Code\CSharp\HttpRequest\bin\Debug\net6.0\HttpRequest.exe
+F:\Code\CSharp\HttpRequest\bin\Debug\net6.0\HttpRequest.deps.json
+F:\Code\CSharp\HttpRequest\bin\Debug\net6.0\HttpRequest.runtimeconfig.json
+F:\Code\CSharp\HttpRequest\bin\Debug\net6.0\HttpRequest.dll
+F:\Code\CSharp\HttpRequest\bin\Debug\net6.0\HttpRequest.pdb
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\HttpRequest.csproj.AssemblyReference.cache
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\HttpRequest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\HttpRequest.AssemblyInfoInputs.cache
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\HttpRequest.AssemblyInfo.cs
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\HttpRequest.csproj.CoreCompileInputs.cache
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\HttpRequest.dll
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\refint\HttpRequest.dll
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\HttpRequest.pdb
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\HttpRequest.genruntimeconfig.cache
+F:\Code\CSharp\HttpRequest\obj\Debug\net6.0\ref\HttpRequest.dll
